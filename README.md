@@ -17,4 +17,4 @@ It is built using **HTML, CSS, and JavaScript**.
 
 ## How to View
 
-personal-portfolio-sigma-seven-89.vercel.app
+https://personal-portfolio-sigma-seven-89.vercel.app/
